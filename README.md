@@ -17,3 +17,5 @@ Conclusão:
 <br/>Aprender a manipular o alinhamento de conteúdo usando Display Flex, position Absolute e Realative, também foram bons desafios.
 <br/>
 </p>
+<br/>
+# [Visite nosso projeto, publicado no Github]{https://luisfernandomgrs.github.io/css-3D-foldable-card-hover-effects/.}
