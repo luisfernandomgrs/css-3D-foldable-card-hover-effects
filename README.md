@@ -19,4 +19,4 @@ Conclusão:
 </p>
 <br/>
 
-# [Visite nosso projeto, publicado no Github](https://luisfernandomgrs.github.io/css-3D-foldable-card-hover-effects/.)
+Veja como ficou este projeto [aqui](https://luisfernandomgrs.github.io/css-3D-foldable-card-hover-effects/.).
